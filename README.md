@@ -40,8 +40,7 @@
 
 ## 🖼 Демо
 
-![Demo screenshot placeholder](<img width="488" height="415" alt="image" src="https://github.com/user-attachments/assets/8e307c25-c689-4207-8419-e7440ae57243" />
-)
+!(<1.png />)
 
 Пример диалога:
 

@@ -40,9 +40,8 @@
 
 ## 🖼 Демо
 
-> Заглушка скриншота: замените ссылку на свой кадр из Telegram после запуска.
-
-![Demo screenshot placeholder](https://via.placeholder.com/960x540.png?text=Telegram+Currency+Bot+Demo)
+![Demo screenshot placeholder](<img width="488" height="415" alt="image" src="https://github.com/user-attachments/assets/8e307c25-c689-4207-8419-e7440ae57243" />
+)
 
 Пример диалога:
 
